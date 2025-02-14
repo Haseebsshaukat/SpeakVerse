@@ -1,0 +1,7 @@
+streamlit
+whisper
+deep-translator
+gTTS
+pydub
+streamlit-webrtc
+torch
